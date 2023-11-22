@@ -1,0 +1,1753 @@
+{
+  "champions": [
+    {
+      "id": "11fdaf2a-93b9-4d69-95fd-19bd7d6bbb73",
+      "nome": "Annie",
+      "aspectos": [
+        "Emo",
+        "Enfeitiçador"
+      ],
+      "custo": 1,
+      "habilidade": {
+        "nome": "Disintegrate",
+        "custo": "0/50",
+        "descrição": "Passive: After 4 casts, gain 50% Attack Speed and casts deal 115 / 170 / 255 () magic damage to another nearby enemy. Active: Deal 170 / 255 / 385 () magic damage to the current target.",
+        "efeito": "Headliner Effect: +20"
+      }
+    },
+    {
+      "id": "d3cdb8c0-5eb3-474c-840b-e935e95e9c96",
+      "nome": "Corki",
+      "aspectos": [
+        "8-bit",
+        "Big Shot"
+      ],
+      "custo": 1,
+      "habilidade": {
+        "nome": "Blown to 8 Bits",
+        "custo": "15/60",
+        "descrição": "Deal 134 / 202 / 302 () physical damage to the current target and adjacent enemies, then Wound them for 5 () seconds. Wound: Reduce healing received by 33%",
+        "efeito": "Headliner Effect: +20%"
+      }
+    },
+    {
+      "id": "422ae812-e795-4f9e-9207-ae85ad2dbdc6",
+      "nome": "Evelynn",
+      "aspectos": [
+        "KDA",
+        "Crowd Diver"
+      ],
+      "custo": 1,
+      "habilidade": {
+        "nome": "Whiplash",
+        "custo": "30/90",
+        "descrição": "Deal 200 / 300 / 450 () magic damage to the current target. Gain 175% Attack Speed that decays over 4 seconds. While active, attacks restore 25 / 30 / 35 Health.",
+        "efeito": "Headliner Effect: +100  +15"
+      }
+    },
+    {
+      "id": "f0a9bb6b-6924-4884-9904-8683f7b4c1d4",
+      "nome": "Jinx",
+      "aspectos": [
+        "Punk",
+        "Rapidfire"
+      ],
+      "custo": 1,
+      "habilidade": {
+        "nome": "Escalation",
+        "custo": "0/50",
+        "descrição": "Passive Minigun: Attacks grant 4 () Attack Speed. Passive Rocket Launcher: Attacks deal 23 / 34 / 51 () bonus physical damage. Active: Swap between Minigun and Rocket Launcher.",
+        "efeito": "Headliner Effect: Minigun attacks grant an extra 1% Attack Speed, Rocket Launcher attacks deal an extra 10% () bonus damage."
+      }
+    },
+    {
+      "id": "dc3b13d4-8971-497e-b0fc-cb5f70748911",
+      "nome": "K'Sante",
+      "aspectos": [
+        "Heartsteel",
+        "Sentinela"
+      ],
+      "custo": 1,
+      "habilidade": {
+        "nome": "Block the Haters",
+        "custo": "0/60",
+        "descrição": "Enter a defensive stance, reducing damage taken by 20 / 20 / 25% () for 2.5 seconds. Afterwards, deal 350 / 525 / 788 () physical damage to the current target.",
+        "efeito": "Headliner Effect: +225"
+      }
+    },
+    {
+      "id": "960f096d-fbeb-40bc-b950-2654cb4f0885",
+      "nome": "Kennen",
+      "aspectos": [
+        "True Damage",
+        "Guardião",
+        "Superfan"
+      ],
+      "custo": 1,
+      "habilidade": {
+        "nome": "Shock and Awe",
+        "custo": "30/90",
+        "descrição": "Discharge 2 Jolts over 2 seconds. Each Jolt deals 160 / 240 / 360 () magic damage to a random enemy within range and Stuns them for 0.75 seconds.",
+        "efeito": "Headliner Effect: +75  Jolts heal 4% Maximum Health"
+      }
+    },
+    {
+      "id": "59b5bffb-7f81-422a-91cc-7f97856faad3",
+      "nome": "Lillia",
+      "aspectos": [
+        "KDA",
+        "Sentinela",
+        "Superfan"
+      ],
+      "custo": 1,
+      "habilidade": {
+        "nome": "Confetti Bloom",
+        "custo": "70/140",
+        "descrição": "Deal 180 / 270 / 400 () magic damage to adjacent enemies. Heal Lillia for 180 / 220 / 260 () and her nearest ally for 90 / 110 / 130 ().",
+        "efeito": "Headliner Effect: +100  Confetti Bloom heals 12% more."
+      }
+    },
+    {
+      "id": "ac2156e6-dc2b-4244-9a06-10b3231e5077",
+      "nome": "Nami",
+      "aspectos": [
+        "Disco",
+        "Ofuscante"
+      ],
+      "custo": 1,
+      "habilidade": {
+        "nome": "Disco Prison",
+        "custo": "15/75",
+        "descrição": "Deal 300 / 450 / 675 () magic damage to the current target and Stun them for 1.5 seconds.",
+        "efeito": "Headliner Effect: +20"
+      }
+    },
+    {
+      "id": "2fcf226d-feb8-4286-b79e-6648f5a3bb21",
+      "nome": "Olaf",
+      "aspectos": [
+        "Pentakill",
+        "Brutamontes"
+      ],
+      "custo": 1,
+      "habilidade": {
+        "nome": "Berserker Rage",
+        "custo": "0/0",
+        "descrição": "Passive: Heal 20 / 25 / 35 () Health on attack. For every 1% missing Health, gain 1 / 1 / 3% () Attack Speed.",
+        "efeito": "Headliner Effect: +75  +10  +10"
+      }
+    },
+    {
+      "id": "d1d668d6-d41c-4f3c-9df6-421e3cc30d2f",
+      "nome": "Tahm Kench",
+      "aspectos": [
+        "Country",
+        "Brutamontes"
+      ],
+      "custo": 1,
+      "habilidade": {
+        "nome": "Rawhide",
+        "custo": "0/0",
+        "descrição": "Passive: Reduce each instance of incoming damage by 12 / 15 / 25% ().",
+        "efeito": "Headliner Effect: +225"
+      }
+    },
+    {
+      "id": "613a0b92-47f0-4119-912b-a0bc2f578b07",
+      "nome": "Taric",
+      "aspectos": [
+        "Disco",
+        "Guardião"
+      ],
+      "custo": 1,
+      "habilidade": {
+        "nome": "Mirrorball's Blessing",
+        "custo": "50/140",
+        "descrição": "Gain a 279 / 360 / 456 () Shield for 4 seconds. Taric's next 2 attacks deal 100 / 150 / 225 () bonus magic damage.",
+        "efeito": "Headliner Effect: +100  +15"
+      }
+    },
+    {
+      "id": "54ed3d1d-2614-4554-a73c-67029a537bc8",
+      "nome": "Vi",
+      "aspectos": [
+        "Punk",
+        "Mosher"
+      ],
+      "custo": 1,
+      "habilidade": {
+        "nome": "The Harder They Fall",
+        "custo": "40/80",
+        "descrição": "Deal 121 / 182 / 272 () physical damage to the current target, or 176 / 264 / 396 () if they have more current Health than Vi. Stun them for 1.5 / 1.75 / 2 seconds and reduce their Armor by 15 / 18 / 20 () for the rest of combat.",
+        "efeito": "Headliner Effect: +150  +10%"
+      }
+    },
+    {
+      "id": "1e821a8d-2f05-4c2f-b03b-a446d6d46666",
+      "nome": "Yasuo",
+      "aspectos": [
+        "True Damage",
+        "Edgelord"
+      ],
+      "custo": 1,
+      "habilidade": {
+        "nome": "Synthesizer Strike",
+        "custo": "0/50",
+        "descrição": "Passive: Yasuo permanently gains 1% Attack Damage when he kills an enemy champion (doubled in Hyper Roll). Active: Deal 124 / 186 / 278 () to the current target.",
+        "efeito": "Headliner Effect: +100  +15% Omnivamp"
+      }
+    },
+    {
+      "id": "96fb3a6d-a66b-4a1b-ac3c-5fe234068c91",
+      "nome": "Aphelios",
+      "aspectos": [
+        "Heartsteel",
+        "Rapidfire"
+      ],
+      "custo": 2,
+      "habilidade": {
+        "nome": "Moonlight Lullaby",
+        "custo": "40/135",
+        "descrição": "Deal 399 / 598 / 897 () physical damage and Stun the current target for 1.5 / 1.5 / 2 seconds. Deal 40 / 60 / 90 () physical damage to enemies within 1 hex. If the original target dies, Stun enemies within 1 hex for 1 second.",
+        "efeito": "Headliner Effect: +20%"
+      }
+    },
+    {
+      "id": "258bbd9b-7676-4e23-831a-8cfeb400e6b6",
+      "nome": "Bard",
+      "aspectos": [
+        "Jazz",
+        "Ofuscante"
+      ],
+      "custo": 2,
+      "habilidade": {
+        "nome": "Improv",
+        "custo": "15/75",
+        "descrição": "Play a 4-note tune at random using 3 possible notes: Doot - Deal 190 / 285 / 430 () magic damage to the current target. Chime - Heal the lowest Health ally for 120 / 150 / 180 () Health. Tip - Drop 1 gold and play another note. (3 Gold in Hyper Roll).",
+        "efeito": "Headliner Effect: The finale of Bard's first cast each combat spreads an additional Doot for every 8 times he's cast this game. Doots deal 95 / 140 / 215 () magic damage."
+      }
+    },
+    {
+      "id": "28f9ee05-cdc7-4332-985d-9c7846c1465c",
+      "nome": "Garen",
+      "aspectos": [
+        "8-bit",
+        "Sentinela"
+      ],
+      "custo": 2,
+      "habilidade": {
+        "nome": "Power-Up!",
+        "custo": "40/90",
+        "descrição": "Gain 75 / 135 / 243 () max Health. Garen's next attack deals 163 / 267 / 441 () physical damage.",
+        "efeito": "Headliner Effect: +400"
+      }
+    },
+    {
+      "id": "02bd62bc-a67d-40ce-a5d3-7b68c786b794",
+      "nome": "Gnar",
+      "aspectos": [
+        "Pentakill",
+        "Mosher",
+        "Superfan"
+      ],
+      "custo": 2,
+      "habilidade": {
+        "nome": "Rabid Fandom",
+        "custo": "0/70",
+        "descrição": "Leap over the current target and transform into Mega Gnar for the rest of combat, gaining 500 / 550 / 600 () Health and 70% Attack Damage. Subsequent casts deal 184 / 276 / 415 () physical damage to the current target.",
+        "efeito": "Headliner Effect: At combat start, transform into Mega Gnar."
+      }
+    },
+    {
+      "id": "1efb49d7-fc1f-473d-9407-8767ea4f547f",
+      "nome": "Gragas",
+      "aspectos": [
+        "Disco",
+        "Brutamontes",
+        "Enfeitiçador"
+      ],
+      "custo": 2,
+      "habilidade": {
+        "nome": "Boogie Hour",
+        "custo": "40/80",
+        "descrição": "Heal 500 / 575 / 650 Health over 2 seconds. Then, deal 150 / 225 / 350 () magic damage to adjacent enemies and Chill them for 3 seconds.\n\nChill: Reduce Attack Speed by 30%",
+        "efeito": "Headliner Effect: Gragas takes 8% less damage and deals 15% more damage."
+      }
+    },
+    {
+      "id": "55e4b302-9f3b-4bae-958a-d806dadb9e49",
+      "nome": "Jax",
+      "aspectos": [
+        "EDM",
+        "Mosher"
+      ],
+      "custo": 2,
+      "habilidade": {
+        "nome": "Counter Melody",
+        "custo": "50/120",
+        "descrição": "Leap at the highest Health enemy within 2 () hexes and deal 230 / 345 / 520 () magic damage to them. Then, deal 140 / 210 / 315 () magic damage to all adjacent enemies. Gain 10% Attack Damage and Ability Power for the rest of combat.",
+        "efeito": "Headliner Effect: +200  +20"
+      }
+    },
+    {
+      "id": "663ce32a-e362-47e0-8462-79d07a62d6ba",
+      "nome": "Kai'Sa",
+      "aspectos": [
+        "KDA",
+        "Big Shot"
+      ],
+      "custo": 2,
+      "habilidade": {
+        "nome": "Got the Boom",
+        "custo": "0/30",
+        "descrição": "Dash up to 2 hexes and fire a missile at the current target. It deals 168 / 251 / 381 () physical damage to the first enemy hit.",
+        "efeito": "Headliner Effect: +15%  +2  and dash farther."
+      }
+    },
+    {
+      "id": "5bc7fa05-5c43-4940-a59f-bc113b7e7509",
+      "nome": "Katarina",
+      "aspectos": [
+        "Country",
+        "Crowd Diver"
+      ],
+      "custo": 2,
+      "habilidade": {
+        "nome": "Bouncing Blade",
+        "custo": "0/60",
+        "descrição": "Throw a blade at the current target that bounces 3 times, dealing 140 / 210 / 315 () magic damage and applying Wound for 6 seconds.\n\nWound: Reduce healing received by 33%",
+        "efeito": "Headliner Effect: +200  and the final blade bounce deals 45% more magic damage."
+      }
+    },
+    {
+      "id": "7c84f1fb-00e0-4fe4-b28a-687827763b5b",
+      "nome": "Kayle",
+      "aspectos": [
+        "Pentakill",
+        "Edgelord"
+      ],
+      "custo": 2,
+      "habilidade": {
+        "nome": "Fires of Ascension",
+        "custo": "0/30",
+        "descrição": "For 5 seconds, attacks deal 30 / 45 / 70 () bonus magic damage in waves at the current target and behind them. Shred enemies hit for 4 seconds. Finally, deal 190 / 285 / 430 () magic damage to enemies around the target.\n\nShred: Reduce Magic Resist by 30%",
+        "efeito": "Headliner Effect: +25%"
+      }
+    },
+    {
+      "id": "ed61cf48-5b1f-47a4-9145-0095cdb776c5",
+      "nome": "Pantheon",
+      "aspectos": [
+        "Punk",
+        "Guardião"
+      ],
+      "custo": 2,
+      "habilidade": {
+        "nome": "Too Tough To Kill",
+        "custo": "0/60",
+        "descrição": "Reduce damage taken by 25 / 25 / 30% () for 2.5 seconds. Afterwards, deal 110 / 165 / 248 () physical damage to the 3 enemies who dealt the most damage to Pantheon during the duration.",
+        "efeito": "Headliner Effect: +200  +20  +20"
+      }
+    },
+    {
+      "id": "0451b24a-2ac4-4a5b-90a9-04be28857bac",
+      "nome": "Senna",
+      "aspectos": [
+        "True Damage",
+        "Rapidfire"
+      ],
+      "custo": 2,
+      "habilidade": {
+        "nome": "Concussive Noise",
+        "custo": "30/90",
+        "descrição": "Fire a blast of sound at the current target's location. It pulses 3 times, each dealing 105 / 155 / 225 () magic damage to enemies within 1 hex.",
+        "efeito": "Headliner Effect: +5  and each pulse grows larger."
+      }
+    },
+    {
+      "id": "4d27cbfa-84f1-4d4d-ba5c-a2a90820d0f8",
+      "nome": "Seraphine",
+      "aspectos": [
+        "KDA",
+        "Enfeitiçador"
+      ],
+      "custo": 2,
+      "habilidade": {
+        "nome": "High Note",
+        "custo": "0/60",
+        "descrição": "Send a high note to the largest clump of units that hits all units within 1 hex. Enemies take 140 / 210 / 315 () magic damage. Allies heal for 80 / 120 / 160 () Health.",
+        "efeito": "Headliner Effect: Every other cast, send another High Note that deals 40% damage and heals 40%"
+      }
+    },
+    {
+      "id": "cda37434-a065-4c28-a33d-7bc67f042882",
+      "nome": "Twitch",
+      "aspectos": [
+        "Punk",
+        "Carrasco"
+      ],
+      "custo": 2,
+      "habilidade": {
+        "nome": "Bottled Anarchy",
+        "custo": "20/70",
+        "descrição": "Throw a bottle at the current target, which deals 90 / 135 / 203 () physical damage to enemies within 1 hex. It explodes into 6 shards; each dealing 35 / 50 / 80 () magic damage to a random enemy within 2 hexes. Each enemy critically struck by the bottle creates 1 more shard.",
+        "efeito": "Headliner Effect: +15%  +20%"
+      }
+    },
+    {
+      "id": "2bba160f-02c6-4c63-8dcf-3b201e3bc192",
+      "nome": "Amumu",
+      "aspectos": [
+        "Emo",
+        "Guardião"
+      ],
+      "custo": 3,
+      "habilidade": {
+        "nome": "Tantrum",
+        "custo": "0/45",
+        "descrição": "Passive: When attacked, gain 2 Armor (stacks up to 30 times).\n\nActive: Deal 60 / 90 / 145 () magic damage to adjacent enemies. Every 3rd cast hits enemies within 2 hexes and Stuns them for 1.5 seconds.",
+        "efeito": "Headliner Effect: +150  When attacked, also gains Magic Resist."
+      }
+    },
+    {
+      "id": "26119712-3cf7-4d18-9369-b67964ad6ed4",
+      "nome": "Ekko",
+      "aspectos": [
+        "True Damage",
+        "Sentinela",
+        "Enfeitiçador"
+      ],
+      "custo": 3,
+      "habilidade": {
+        "nome": "Record Scratch",
+        "custo": "50/125",
+        "descrição": "Deal 60 / 90 / 145 () magic damage to enemies within 2 hexes and Stun them for 1.5 seconds. Gain a 400 / 450 / 550 () Health shield for 4 seconds.",
+        "efeito": "Headliner Effect: +200  +20"
+      }
+    },
+    {
+      "id": "d789b8f2-1bd1-43d1-a368-a9305aeee401",
+      "nome": "Lulu",
+      "aspectos": [
+        "Hyperpop",
+        "Enfeitiçador"
+      ],
+      "custo": 3,
+      "habilidade": {
+        "nome": "Tastes like Glitter",
+        "custo": "0/40",
+        "descrição": "Fire a bolt toward the current target. It deals 240 / 360 / 575 () magic damage to the first enemy it passes through and 150 / 225 / 360 () magic damage to the second. Every 3rd cast, Stun the 3 nearest enemies for 1.25 seconds and deal 120 / 180 / 280 () magic damage instead.",
+        "efeito": "Headliner Effect: +25"
+      }
+    },
+    {
+      "id": "751a645f-ae4c-4632-a831-eb0dcf558aa0",
+      "nome": "Lux",
+      "aspectos": [
+        "EDM",
+        "Ofuscante"
+      ],
+      "custo": 3,
+      "habilidade": {
+        "nome": "Laser Light Show",
+        "custo": "15/75",
+        "descrição": "Fire a beam at the farthest enemy, dealing 230 / 345 / 550 () magic damage to all enemies it hits.",
+        "efeito": "Headliner Effect: +15%  and this ability can critically strike."
+      }
+    },
+    {
+      "id": "04115763-8970-4eeb-b09e-849c61bb92de",
+      "nome": "Miss Fortune",
+      "aspectos": [
+        "Jazz",
+        "Big Shot"
+      ],
+      "custo": 3,
+      "habilidade": {
+        "nome": "Double Time",
+        "custo": "0/60",
+        "descrição": "Deal 149 / 223 / 340 () physical damage to the current target and 99 / 148 / 223 () physical damage to the closest enemy behind them. If either die, gain 40%% () Attack Speed for 4 seconds.",
+        "efeito": "Headliner Effect: +25%"
+      }
+    },
+    {
+      "id": "f47d5a61-1b39-4ba3-b57d-b6bd5d3af46f",
+      "nome": "Mordekaiser",
+      "aspectos": [
+        "Pentakill",
+        "Sentinela"
+      ],
+      "custo": 3,
+      "habilidade": {
+        "nome": "Face-Melter",
+        "custo": "70/120",
+        "descrição": "Gain a 500 / 575 / 650 () Shield and deal 200 / 300 / 480 () magic damage to adjacent enemies over 3 seconds. Afterwards, deal 200 / 300 / 480 () magic damage to nearby enemies.\n\nWhen Face-Melter kills an enemy, gain 4% Ability Power and Attack Damage, and 4 Armor and Magic Resist.",
+        "efeito": "Headliner Effect: +100  +5  When this ability kills, permanently gain 1% permanent Ability Power."
+      }
+    },
+    {
+      "id": "0a3fc577-ff13-4f17-b071-fd5b5820d5f5",
+      "nome": "Neeko",
+      "aspectos": [
+        "KDA",
+        "Guardião",
+        "Superfan"
+      ],
+      "custo": 3,
+      "habilidade": {
+        "nome": "Cosplay",
+        "custo": "0/90",
+        "descrição": "Cosplay the highest Health ally and gain a 250 / 300 / 350 () Shield + 5% of the ally's Health for 4 seconds. When it breaks, deal 70 / 90 / 115% of its initial value as magic damage to adjacent enemies.",
+        "efeito": "Headliner Effect: +25"
+      }
+    },
+    {
+      "id": "3bea6c9e-2dc8-494a-991a-532687f55a0f",
+      "nome": "Riven",
+      "aspectos": [
+        "8-bit",
+        "Edgelord"
+      ],
+      "custo": 3,
+      "habilidade": {
+        "nome": "Voxel Defense",
+        "custo": "50/100",
+        "descrição": "For the next 6 seconds, gain a 250 / 345 / 478 () Shield and attacks deal 72 / 108 / 162 () bonus physical damage to enemies within 1 hex of the target.",
+        "efeito": "Headliner Effect: +100  +10%  +10  +10"
+      }
+    },
+    {
+      "id": "8d80cf26-e0d3-4683-a61b-a37831201976",
+      "nome": "Samira",
+      "aspectos": [
+        "Country",
+        "Carrasco"
+      ],
+      "custo": 3,
+      "habilidade": {
+        "nome": "Thrills & Kills",
+        "custo": "0/100",
+        "descrição": "Passive: Attacks that critically strike grant a stack of Style, up to 6 stacks. Each stack grants 20% () Attack Speed.\n\nActive: Deal 144 / 216 / 338 () physical damage to the current target, then another 66 / 99 / 149 () physical damage per Style stack. Afterwards, reset Style.",
+        "efeito": "Headliner Effect: +25%"
+      }
+    },
+    {
+      "id": "9adbe3e6-da26-4ed3-b9a4-bc6d7d51c7ed",
+      "nome": "Sett",
+      "aspectos": [
+        "Heartsteel",
+        "Brutamontes",
+        "Mosher"
+      ],
+      "custo": 3,
+      "habilidade": {
+        "nome": "THE PUNCHLINE",
+        "custo": "30/90",
+        "descrição": "Gain a 375 / 425 / 475 Shield for 2 seconds, increased by 1 for every 4 missing Health. Deal 275 / 420 / 680 () magic damage to the current target and 130 / 210 / 340 () magic damage to enemies in a cone around them.\n\nHeadliner Effect: +250  At 50% Health, gain 50 max Health permanently.",
+        "efeito": "Headliner Effect: +250  At 50% Health, gain 50 max Health permanently."
+      }
+    },
+    {
+      "id": "d6175d3c-0fee-4493-bff0-33a843ce47e7",
+      "nome": "Urgot",
+      "aspectos": [
+        "Country",
+        "Mosher"
+      ],
+      "custo": 3,
+      "habilidade": {
+        "nome": "Fire from his Fingertips",
+        "custo": "0/20",
+        "descrição": "For 8 seconds, convert bonus Attack Speed to Attack Damage. Attacks deal 120 / 183 / 283 () physical damage in a cone and grant Urgot 30% of the damage dealt as a 5 second Shield.",
+        "efeito": "Headliner Effect: +15%  +10% Omnivamp"
+      }
+    },
+    {
+      "id": "dbe077bb-bf58-4019-8420-54b439799ada",
+      "nome": "Vex",
+      "aspectos": [
+        "Emo",
+        "Carrasco"
+      ],
+      "custo": 3,
+      "habilidade": {
+        "nome": "Your Funeral",
+        "custo": "25/75",
+        "descrição": "Send a shadow to the current target that Stuns enemies within 1 hex for 1.5 seconds. Then, it deals 255 / 380 / 610 () magic damage to enemies within 1 hex.",
+        "efeito": "Headliner Effect: +25"
+      }
+    },
+    {
+      "id": "56ed4beb-7bf8-4ecd-a40b-e3e46de81733",
+      "nome": "Yone",
+      "aspectos": [
+        "Heartsteel",
+        "Crowd Diver",
+        "Edgelord"
+      ],
+      "custo": 3,
+      "habilidade": {
+        "nome": "Pop Off",
+        "custo": "0/70",
+        "descrição": "Gain stacking Move Speed and 8% () Omnivamp for the rest of combat. Slash twice, dealing 130 / 195 / 300 () physical damage to enemies in a cone each time.\n\nOmnivamp: Heal for percentage of damage dealt",
+        "efeito": "Headliner Effect: +200  +20%"
+      }
+    },
+    {
+      "id": "b99bf6d5-3523-4130-b8f6-cea75a883bea",
+      "nome": "Ahri",
+      "aspectos": [
+        "KDA",
+        "Enfeitiçador"
+      ],
+      "custo": 4,
+      "habilidade": {
+        "nome": "POP/STAR",
+        "custo": "0/30",
+        "descrição": "Blow a kiss at the current target. It deals 275 / 410 / 1500 () magic damage and briefly Stuns them. If the target has been kissed before, deal 480 / 720 / 2400 () magic damage instead.",
+        "efeito": "Headliner Effect: +15"
+      }
+    },
+    {
+      "id": "94e97c4c-3ac8-41ad-b3db-d7b6fc5c735c",
+      "nome": "Blitzcrank",
+      "aspectos": [
+        "Disco",
+        "Sentinela"
+      ],
+      "custo": 4,
+      "habilidade": {
+        "nome": "Boogie Barrier",
+        "custo": "60/120",
+        "descrição": "Passive: Deal 100 / 150 / 1000 () magic damage to a nearby enemy every 2 seconds.\n\nActive: Gain a 600 / 750 / 2000 () Shield. For 5 seconds, Blitzcrank's Passive deals damage every second and deals an additional 1% of the target's max Health as magic damage.",
+        "efeito": "Headliner Effect: +150  and the Passive always deals the max Health magic damage."
+      }
+    },
+    {
+      "id": "e3235d14-7a19-4456-af11-447ffc808dcd",
+      "nome": "Caitlyn",
+      "aspectos": [
+        "8-bit",
+        "Rapidfire"
+      ],
+      "custo": 4,
+      "habilidade": {
+        "nome": "Champ Hunt",
+        "custo": "0/90",
+        "descrição": "Fire shots at the 4 furthest enemies. Shots deal 60 / 143 / 1285 () physical damage to the first enemy they hit.",
+        "efeito": "Headliner Effect: +5%  and fire another shot that deals 60% damage."
+      }
+    },
+    {
+      "id": "ccca5f3a-50c8-47b9-a701-612a3e2345b9",
+      "nome": "Ezreal",
+      "aspectos": [
+        "Heartsteel",
+        "Big Shot"
+      ],
+      "custo": 4,
+      "habilidade": {
+        "nome": "Crash the Party",
+        "custo": "0/40",
+        "descrição": "Blink away from the current target and deal 231 / 346 / 1039 () physical damage to them. Every 3rd cast, deal 325 / 488 / 1463 () physical damage to all enemies in a line.",
+        "efeito": "Headliner Effect: +15%"
+      }
+    },
+    {
+      "id": "635b6225-ec0b-4c3e-88b1-7bec8bd67f78",
+      "nome": "Karthus",
+      "aspectos": [
+        "Pentakill",
+        "Carrasco"
+      ],
+      "custo": 4,
+      "habilidade": {
+        "nome": "Mortal Reminder",
+        "custo": "40/120",
+        "descrição": "Deal 220 / 330 / 1000 () magic damage to the 5 lowest Health enemies. Gain 10 Mana for each that dies.",
+        "efeito": "Headliner Effect: +15"
+      }
+    },
+    {
+      "id": "f9e6d403-9168-4e41-b1e8-edd639903c81",
+      "nome": "Poppy",
+      "aspectos": [
+        "Emo",
+        "Mosher"
+      ],
+      "custo": 4,
+      "habilidade": {
+        "nome": "Hammer Time",
+        "custo": "30/100",
+        "descrição": "Passive: Gain Attack Damage based on bonus Health. (Current: 30 / 54 / 97% ())\n\nActive: Gain 80 Armor and Magic Resistance for 6 seconds. Hammer the nearest enemy 3 times; each deals 144 / 216 / 675 () physical damage and heals 40 / 72 / 130 () Health. If this kills an enemy, slam an additional time.",
+        "efeito": "Headliner Effect: +150  +10%"
+      }
+    },
+    {
+      "id": "c6c5f934-5316-4484-988c-5890bb50622b",
+      "nome": "Thresh",
+      "aspectos": [
+        "Country",
+        "Guardião"
+      ],
+      "custo": 4,
+      "habilidade": {
+        "nome": "Devil's Round Up",
+        "custo": "70/160",
+        "descrição": "Stun the largest group of nearby enemies for 1.75 / 2 / 8 seconds and deal 150 / 225 / 1200 () magic damage to each. Thresh heals for 250 / 300 / 600 + 50% of the total damage dealt.",
+        "efeito": "Headliner Effect: +100  Reduce max Mana by 25."
+      }
+    },
+    {
+      "id": "51bb63f3-54eb-4847-80b1-0481ab323887",
+      "nome": "Twisted Fate",
+      "aspectos": [
+        "Disco",
+        "Ofuscante"
+      ],
+      "custo": 4,
+      "habilidade": {
+        "nome": "Hustle & Shuffle",
+        "custo": "30/105",
+        "descrição": "Throw 21 () cards divided between the current target and 3 nearest enemies. They reduce Magic Resist by 1 and deal 50 / 75 / 225 () magic damage.",
+        "efeito": "Headliner Effect: Throws 3 extra cards."
+      }
+    },
+    {
+      "id": "3704aa35-3ffc-410f-bc93-30f6d277cd52",
+      "nome": "Viego",
+      "aspectos": [
+        "Pentakill",
+        "Edgelord"
+      ],
+      "custo": 4,
+      "habilidade": {
+        "nome": "Riff of the Ruined King",
+        "custo": "70/120",
+        "descrição": "Slam on a nearby hex. Deal 113 / 169 / 506 () physical damage to enemies within two hexes and mark them for 5 () seconds. Marked enemies take 10% increased damage from all sources.\n\nViego's attacks on marked enemies deal 128 / 191 / 574 () physical damage instead.",
+        "efeito": "Headliner Effect: +150  +10%"
+      }
+    },
+    {
+      "id": "6e04d314-1e7a-426b-bfaa-796231fd9f98",
+      "nome": "Zac",
+      "aspectos": [
+        "EDM",
+        "Brutamontes"
+      ],
+      "custo": 4,
+      "habilidade": {
+        "nome": "Let's Bounce!",
+        "custo": "60/160",
+        "descrição": "Bounce 3 times on nearby enemies. Each bounce deals 120 / 180 / 1200 () magic damage, Stuns for 1 second, and heals Zac for 180 / 240 / 800 () Health.",
+        "efeito": "Headliner Effect: +150  +10"
+      }
+    },
+    {
+      "id": "6b6a1af8-97f2-4017-b1a5-6d617c1c9786",
+      "nome": "Zed",
+      "aspectos": [
+        "EDM",
+        "Crowd Diver"
+      ],
+      "custo": 4,
+      "habilidade": {
+        "nome": "Shadow Dance",
+        "custo": "30/50",
+        "descrição": "Mark the current target and spawn an untargetable Shadow with 131 / 197 / 591 () Attack Damage for 4 seconds. After a brief delay or when the marked enemy falls below 15% () health, deal an additional 263 / 394 / 1181 () physical damage.",
+        "efeito": "Headliner Effect: +100  Zed's Shadows gain +10%  and +10% ."
+      }
+    },
+    {
+      "id": "26f82f7f-87aa-43c8-ad04-48d1fc1d3462",
+      "nome": "Akali(1)",
+      "aspectos": [
+        "KDA",
+        "Breakout",
+        "Carrasco"
+      ],
+      "custo": 4,
+      "habilidade": {
+        "nome": "The Baddest",
+        "custo": "10/50",
+        "descrição": "Throw a shuriken at the farthest unmarked target, marking them. Dash to every marked enemy, striking them for 114 / 171 / 513 () physical damage and dealing 8000 / 12000 / 40000 () physical damage to enemies dashed through.",
+        "efeito": "Headliner Effect: +100  +10%"
+      }
+    },
+    {
+      "id": "8023ddf3-9ec7-4b69-b834-9cbc3a97e601",
+      "nome": "Akali(2)",
+      "aspectos": [
+        "True Damage",
+        "Breakout",
+        "Carrasco"
+      ],
+      "custo": 4,
+      "habilidade": {
+        "nome": "Three Point Strike",
+        "custo": "0/60",
+        "descrição": "Deal 175 / 263 / 788 () physical damage three times split between the three closest enemies within three hexes. For each enemy that survives all three waves, refund 12 / 12 / 20 () Mana.",
+        "efeito": "Headliner Effect: +100  +10%"
+      }
+    },
+    {
+      "id": "c48056be-651c-44a6-a62a-2c940ec5dd3e",
+      "nome": "Illaoi",
+      "aspectos": [
+        "illbeats",
+        "Brutamontes"
+      ],
+      "custo": 5,
+      "habilidade": {
+        "nome": "Drums of the Deep",
+        "custo": "70/150",
+        "descrição": "Passive: Every 3 seconds, Illaoi's tentacles deal TentacleDamage () magic damage to nearby enemies.\n\nActive: Gain 100 / 150 / 400 Armor and Magic Resist for 3.5 seconds. Revive or fully heal the lowest Health tentacle. Leap at the nearest enemy and deal 100 / 150 / 4000 () magic damage in a large circle 3 / 3 / 7 times as tentacles slam in unison.",
+        "efeito": "Headliner Effect: +10  +5  +5  and tentacles slam every 2 seconds."
+      }
+    },
+    {
+      "id": "ba112eea-8e17-46bf-b0c6-94410a71fb10",
+      "nome": "Jhin",
+      "aspectos": [
+        "Maestro",
+        "Big Shot"
+      ],
+      "custo": 5,
+      "habilidade": {
+        "nome": "Concerto of Demise in D Minor",
+        "custo": "0/60",
+        "descrição": "Passive: Attacks generate 10 additional Mana. If your bench has 4 Grand Finale Rifles, begin conducting instead of attacking. Each Rifle fires at the same rate as the Maestro and deals 42 / 63 / 699 () physical damage. Every 4th volley deals 200% damage.\n\nActive: Put 1 / 1 / 4 Grand Finale Rifle into one of your empty bench slots.",
+        "efeito": "Headliner Effect: +5%  Combat Start: Put 1 Grand Finale Rifle onto an empty bench slot."
+      }
+    },
+    {
+      "id": "676b2572-3beb-42b1-bdfe-dead517fcc11",
+      "nome": "Kayn",
+      "aspectos": [
+        "Heartsteel",
+        "Wildcard",
+        "Edgelord"
+      ],
+      "custo": 5,
+      "habilidade": {
+        "nome": "Fear the Reaper",
+        "custo": "0/50",
+        "descrição": "Dash, then deal 350 / 525 / 4000 () magic damage to adjacent enemies and Chill them for 3 seconds. If Kayn only hits one target, he immediately casts again.\n\nChill: Reduce Attack Speed by 20%",
+        "efeito": "Headliner Effect: +5  Shadow Assassin rewards an extra 2 gold. Rhaast rewards an extra 1 Tactician Health."
+      }
+    },
+    {
+      "id": "ead951fd-c3dd-4f91-89ff-a95d9b39ff99",
+      "nome": "Lucian",
+      "aspectos": [
+        "Jazz",
+        "Rapidfire"
+      ],
+      "custo": 5,
+      "habilidade": {
+        "nome": "Arpeggio",
+        "custo": "50/125",
+        "descrição": "Fire 14 () shots toward the furthest enemy. Each shot explodes on the first enemy hit, dealing 56 / 84 / 1563 () physical damage to all nearby enemies and reducing their Armor by 3 / 5 / 20 for the rest of combat.\n\nIf Arpeggio ends early, gain Mana based on the number of unused shots.",
+        "efeito": "Headliner Effect: +5%  and Arpeggio fires 3 more shots."
+      }
+    },
+    {
+      "id": "403f2897-82ad-40d4-9dc0-28768f898e0c",
+      "nome": "Qiyana",
+      "aspectos": [
+        "True Damage",
+        "Crowd Diver"
+      ],
+      "custo": 5,
+      "habilidade": {
+        "nome": "Sample & Remix",
+        "custo": "0/50",
+        "descrição": "Copy 1 / 2 / 3 of the current target's items and throw them to an ally. Deal 375 / 563 / 1688 () physical damage and knock them back. If the target had no items, deal 281 / 422 / 8438 () additional true damage and knock them back to the edge of the board instead.\n\n[Radiant items, Artifacts, and Emblems cannot be copied]",
+        "efeito": "Headliner Effect: +5%  When Qiyana copies an item, she permanently gains 5% Attack Damage."
+      }
+    },
+    {
+      "id": "4be243ce-f931-4030-91c5-1b3c0764ef51",
+      "nome": "Sona",
+      "aspectos": [
+        "Mixmaster",
+        "Enfeitiçador"
+      ],
+      "custo": 5,
+      "habilidade": {
+        "nome": "The Drop (Kinetic)",
+        "custo": "0/170",
+        "descrição": "Passive: Attacks instead send a beat to an ally, healing them for 4 / 7 / 100% of their maximum Health.\n\nActive: Send a beat to all allies and grant them a 350 / 550 / 3333 () Shield for 2 / 2 / 30 seconds.",
+        "efeito": "Headliner Effect: +5%  Gains 1% Attack Speed every time she attacks."
+      }
+    },
+    {
+      "id": "5f63a386-aee6-4d61-b3eb-616d61c0a8cf",
+      "nome": "Yorick",
+      "aspectos": [
+        "Pentakill",
+        "Mosher",
+        "Guardião"
+      ],
+      "custo": 5,
+      "habilidade": {
+        "nome": "GET IN THIS PIT! (ft. Ghouls)",
+        "custo": "60/110",
+        "descrição": "Summon 9 / 10 / 25 headbanging ghouls that pile towards the center of the board. Each deals 132 / 198 / 1980 () physical damage over three attacks. Ghouls' damage 20% Sunders for 3 seconds.\n\nEvery other cast also summons a BIG ghoul with 900 / 1750 / 9001 () Health that deals 220 / 330 / 3960 () physical damage each attack.\n\nSunder: Reduce Armor by 20%",
+        "efeito": "Headliner Effect: +50  Summons 2 extra ghouls. The BIG ghoul is BIGGER and deals 10% extra damage."
+      }
+    },
+    {
+      "id": "5f5b1290-fc9e-4c0c-9faf-648ccafc8880",
+      "nome": "Ziggs",
+      "aspectos": [
+        "Hyperpop",
+        "Ofuscante"
+      ],
+      "custo": 5,
+      "habilidade": {
+        "nome": "Chaos Theory",
+        "custo": "30/70",
+        "descrição": "Throw a bomb at the current target that deals 360 / 540 / 4000 () magic damage. It splits into smaller bombs that Shred their target for 4 seconds and deal 70 / 105 / 400 () magic damage. Each cast increases the number of smaller bombs by 2.\n\nShred: Reduce Magic Resist by 30%",
+        "efeito": "Headliner Effect: +5  Reduce max Mana by 10."
+      }
+    }
+  ],
+  "aspectosComCampeoes": [
+    {
+      "aspecto": "Emo",
+      "nomes": [
+        "Annie",
+        "Amumu",
+        "Vex",
+        "Poppy"
+      ]
+    },
+    {
+      "aspecto": "Enfeitiçador",
+      "nomes": [
+        "Annie",
+        "Gragas",
+        "Seraphine",
+        "Ekko",
+        "Lulu",
+        "Ahri",
+        "Sona"
+      ]
+    },
+    {
+      "aspecto": "8-bit",
+      "nomes": [
+        "Corki",
+        "Garen",
+        "Riven",
+        "Caitlyn"
+      ]
+    },
+    {
+      "aspecto": "Big Shot",
+      "nomes": [
+        "Corki",
+        "Kai'Sa",
+        "Miss Fortune",
+        "Ezreal",
+        "Jhin"
+      ]
+    },
+    {
+      "aspecto": "KDA",
+      "nomes": [
+        "Evelynn",
+        "Lillia",
+        "Kai'Sa",
+        "Seraphine",
+        "Neeko",
+        "Ahri",
+        "Akali(1)",
+        "Matheus"
+      ]
+    },
+    {
+      "aspecto": "Crowd Diver",
+      "nomes": [
+        "Evelynn",
+        "Katarina",
+        "Yone",
+        "Zed",
+        "Qiyana",
+        "Matheus"
+      ]
+    },
+    {
+      "aspecto": "Punk",
+      "nomes": [
+        "Jinx",
+        "Vi",
+        "Pantheon",
+        "Twitch"
+      ]
+    },
+    {
+      "aspecto": "Rapidfire",
+      "nomes": [
+        "Jinx",
+        "Aphelios",
+        "Senna",
+        "Caitlyn",
+        "Lucian"
+      ]
+    },
+    {
+      "aspecto": "Heartsteel",
+      "nomes": [
+        "K'Sante",
+        "Aphelios",
+        "Sett",
+        "Yone",
+        "Ezreal",
+        "Kayn"
+      ]
+    },
+    {
+      "aspecto": "Sentinela",
+      "nomes": [
+        "K'Sante",
+        "Lillia",
+        "Garen",
+        "Ekko",
+        "Mordekaiser",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "aspecto": "True Damage",
+      "nomes": [
+        "Kennen",
+        "Yasuo",
+        "Senna",
+        "Ekko",
+        "Akali(2)",
+        "Qiyana"
+      ]
+    },
+    {
+      "aspecto": "Guardião",
+      "nomes": [
+        "Kennen",
+        "Taric",
+        "Pantheon",
+        "Amumu",
+        "Neeko",
+        "Thresh",
+        "Yorick"
+      ]
+    },
+    {
+      "aspecto": "Superfan",
+      "nomes": [
+        "Kennen",
+        "Lillia",
+        "Gnar",
+        "Neeko"
+      ]
+    },
+    {
+      "aspecto": "Disco",
+      "nomes": [
+        "Nami",
+        "Taric",
+        "Gragas",
+        "Blitzcrank",
+        "Twisted Fate"
+      ]
+    },
+    {
+      "aspecto": "Ofuscante",
+      "nomes": [
+        "Nami",
+        "Bard",
+        "Lux",
+        "Twisted Fate",
+        "Ziggs"
+      ]
+    },
+    {
+      "aspecto": "Pentakill",
+      "nomes": [
+        "Olaf",
+        "Gnar",
+        "Kayle",
+        "Mordekaiser",
+        "Karthus",
+        "Viego",
+        "Yorick"
+      ]
+    },
+    {
+      "aspecto": "Brutamontes",
+      "nomes": [
+        "Olaf",
+        "Tahm Kench",
+        "Gragas",
+        "Sett",
+        "Zac",
+        "Illaoi"
+      ]
+    },
+    {
+      "aspecto": "Country",
+      "nomes": [
+        "Tahm Kench",
+        "Katarina",
+        "Samira",
+        "Urgot",
+        "Thresh"
+      ]
+    },
+    {
+      "aspecto": "Mosher",
+      "nomes": [
+        "Vi",
+        "Gnar",
+        "Jax",
+        "Sett",
+        "Urgot",
+        "Poppy",
+        "Yorick"
+      ]
+    },
+    {
+      "aspecto": "Edgelord",
+      "nomes": [
+        "Yasuo",
+        "Kayle",
+        "Riven",
+        "Yone",
+        "Viego",
+        "Kayn"
+      ]
+    },
+    {
+      "aspecto": "Jazz",
+      "nomes": [
+        "Bard",
+        "Miss Fortune",
+        "Lucian"
+      ]
+    },
+    {
+      "aspecto": "EDM",
+      "nomes": [
+        "Jax",
+        "Lux",
+        "Zac",
+        "Zed"
+      ]
+    },
+    {
+      "aspecto": "Carrasco",
+      "nomes": [
+        "Twitch",
+        "Samira",
+        "Vex",
+        "Karthus",
+        "Akali(1)",
+        "Akali(2)"
+      ]
+    },
+    {
+      "aspecto": "Hyperpop",
+      "nomes": [
+        "Lulu",
+        "Ziggs"
+      ]
+    },
+    {
+      "aspecto": "Breakout",
+      "nomes": [
+        "Akali(1)",
+        "Akali(2)"
+      ]
+    },
+    {
+      "aspecto": "illbeats",
+      "nomes": [
+        "Illaoi"
+      ]
+    },
+    {
+      "aspecto": "Maestro",
+      "nomes": [
+        "Jhin"
+      ]
+    },
+    {
+      "aspecto": "Wildcard",
+      "nomes": [
+        "Kayn"
+      ]
+    },
+    {
+      "aspecto": "Mixmaster",
+      "nomes": [
+        "Sona"
+      ]
+    },
+    {
+      "aspecto": "Emo",
+      "nomes": [
+        "Annie",
+        "Amumu",
+        "Vex",
+        "Poppy"
+      ]
+    },
+    {
+      "aspecto": "Enfeitiçador",
+      "nomes": [
+        "Annie",
+        "Gragas",
+        "Seraphine",
+        "Ekko",
+        "Lulu",
+        "Ahri",
+        "Sona"
+      ]
+    },
+    {
+      "aspecto": "8-bit",
+      "nomes": [
+        "Corki",
+        "Garen",
+        "Riven",
+        "Caitlyn"
+      ]
+    },
+    {
+      "aspecto": "Big Shot",
+      "nomes": [
+        "Corki",
+        "Kai'Sa",
+        "Miss Fortune",
+        "Ezreal",
+        "Jhin"
+      ]
+    },
+    {
+      "aspecto": "KDA",
+      "nomes": [
+        "Evelynn",
+        "Lillia",
+        "Kai'Sa",
+        "Seraphine",
+        "Neeko",
+        "Ahri",
+        "Akali(1)",
+        "Matheus"
+      ]
+    },
+    {
+      "aspecto": "Crowd Diver",
+      "nomes": [
+        "Evelynn",
+        "Katarina",
+        "Yone",
+        "Zed",
+        "Qiyana",
+        "Matheus"
+      ]
+    },
+    {
+      "aspecto": "Punk",
+      "nomes": [
+        "Jinx",
+        "Vi",
+        "Pantheon",
+        "Twitch"
+      ]
+    },
+    {
+      "aspecto": "Rapidfire",
+      "nomes": [
+        "Jinx",
+        "Aphelios",
+        "Senna",
+        "Caitlyn",
+        "Lucian"
+      ]
+    },
+    {
+      "aspecto": "Heartsteel",
+      "nomes": [
+        "K'Sante",
+        "Aphelios",
+        "Sett",
+        "Yone",
+        "Ezreal",
+        "Kayn"
+      ]
+    },
+    {
+      "aspecto": "Sentinela",
+      "nomes": [
+        "K'Sante",
+        "Lillia",
+        "Garen",
+        "Ekko",
+        "Mordekaiser",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "aspecto": "True Damage",
+      "nomes": [
+        "Kennen",
+        "Yasuo",
+        "Senna",
+        "Ekko",
+        "Akali(2)",
+        "Qiyana"
+      ]
+    },
+    {
+      "aspecto": "Guardião",
+      "nomes": [
+        "Kennen",
+        "Taric",
+        "Pantheon",
+        "Amumu",
+        "Neeko",
+        "Thresh",
+        "Yorick"
+      ]
+    },
+    {
+      "aspecto": "Superfan",
+      "nomes": [
+        "Kennen",
+        "Lillia",
+        "Gnar",
+        "Neeko"
+      ]
+    },
+    {
+      "aspecto": "Disco",
+      "nomes": [
+        "Nami",
+        "Taric",
+        "Gragas",
+        "Blitzcrank",
+        "Twisted Fate"
+      ]
+    },
+    {
+      "aspecto": "Ofuscante",
+      "nomes": [
+        "Nami",
+        "Bard",
+        "Lux",
+        "Twisted Fate",
+        "Ziggs"
+      ]
+    },
+    {
+      "aspecto": "Pentakill",
+      "nomes": [
+        "Olaf",
+        "Gnar",
+        "Kayle",
+        "Mordekaiser",
+        "Karthus",
+        "Viego",
+        "Yorick"
+      ]
+    },
+    {
+      "aspecto": "Brutamontes",
+      "nomes": [
+        "Olaf",
+        "Tahm Kench",
+        "Gragas",
+        "Sett",
+        "Zac",
+        "Illaoi"
+      ]
+    },
+    {
+      "aspecto": "Country",
+      "nomes": [
+        "Tahm Kench",
+        "Katarina",
+        "Samira",
+        "Urgot",
+        "Thresh"
+      ]
+    },
+    {
+      "aspecto": "Mosher",
+      "nomes": [
+        "Vi",
+        "Gnar",
+        "Jax",
+        "Sett",
+        "Urgot",
+        "Poppy",
+        "Yorick"
+      ]
+    },
+    {
+      "aspecto": "Edgelord",
+      "nomes": [
+        "Yasuo",
+        "Kayle",
+        "Riven",
+        "Yone",
+        "Viego",
+        "Kayn"
+      ]
+    },
+    {
+      "aspecto": "Jazz",
+      "nomes": [
+        "Bard",
+        "Miss Fortune",
+        "Lucian"
+      ]
+    },
+    {
+      "aspecto": "EDM",
+      "nomes": [
+        "Jax",
+        "Lux",
+        "Zac",
+        "Zed"
+      ]
+    },
+    {
+      "aspecto": "Carrasco",
+      "nomes": [
+        "Twitch",
+        "Samira",
+        "Vex",
+        "Karthus",
+        "Akali(1)",
+        "Akali(2)"
+      ]
+    },
+    {
+      "aspecto": "Hyperpop",
+      "nomes": [
+        "Lulu",
+        "Ziggs"
+      ]
+    },
+    {
+      "aspecto": "Breakout",
+      "nomes": [
+        "Akali(1)",
+        "Akali(2)"
+      ]
+    },
+    {
+      "aspecto": "illbeats",
+      "nomes": [
+        "Illaoi"
+      ]
+    },
+    {
+      "aspecto": "Maestro",
+      "nomes": [
+        "Jhin"
+      ]
+    },
+    {
+      "aspecto": "Wildcard",
+      "nomes": [
+        "Kayn"
+      ]
+    },
+    {
+      "aspecto": "Mixmaster",
+      "nomes": [
+        "Sona"
+      ]
+    },
+    {
+      "aspecto": "Emo",
+      "nomes": [
+        "Annie",
+        "Amumu",
+        "Vex",
+        "Poppy"
+      ]
+    },
+    {
+      "aspecto": "Enfeitiçador",
+      "nomes": [
+        "Annie",
+        "Gragas",
+        "Seraphine",
+        "Ekko",
+        "Lulu",
+        "Ahri",
+        "Sona"
+      ]
+    },
+    {
+      "aspecto": "8-bit",
+      "nomes": [
+        "Corki",
+        "Garen",
+        "Riven",
+        "Caitlyn"
+      ]
+    },
+    {
+      "aspecto": "Big Shot",
+      "nomes": [
+        "Corki",
+        "Kai'Sa",
+        "Miss Fortune",
+        "Ezreal",
+        "Jhin"
+      ]
+    },
+    {
+      "aspecto": "KDA",
+      "nomes": [
+        "Evelynn",
+        "Lillia",
+        "Kai'Sa",
+        "Seraphine",
+        "Neeko",
+        "Ahri",
+        "Akali(1)"
+      ]
+    },
+    {
+      "aspecto": "Crowd Diver",
+      "nomes": [
+        "Evelynn",
+        "Katarina",
+        "Yone",
+        "Zed",
+        "Qiyana"
+      ]
+    },
+    {
+      "aspecto": "Punk",
+      "nomes": [
+        "Jinx",
+        "Vi",
+        "Pantheon",
+        "Twitch"
+      ]
+    },
+    {
+      "aspecto": "Rapidfire",
+      "nomes": [
+        "Jinx",
+        "Aphelios",
+        "Senna",
+        "Caitlyn",
+        "Lucian"
+      ]
+    },
+    {
+      "aspecto": "Heartsteel",
+      "nomes": [
+        "K'Sante",
+        "Aphelios",
+        "Sett",
+        "Yone",
+        "Ezreal",
+        "Kayn"
+      ]
+    },
+    {
+      "aspecto": "Sentinela",
+      "nomes": [
+        "K'Sante",
+        "Lillia",
+        "Garen",
+        "Ekko",
+        "Mordekaiser",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "aspecto": "True Damage",
+      "nomes": [
+        "Kennen",
+        "Yasuo",
+        "Senna",
+        "Ekko",
+        "Akali(2)",
+        "Qiyana"
+      ]
+    },
+    {
+      "aspecto": "Guardião",
+      "nomes": [
+        "Kennen",
+        "Taric",
+        "Pantheon",
+        "Amumu",
+        "Neeko",
+        "Thresh",
+        "Yorick"
+      ]
+    },
+    {
+      "aspecto": "Superfan",
+      "nomes": [
+        "Kennen",
+        "Lillia",
+        "Gnar",
+        "Neeko"
+      ]
+    },
+    {
+      "aspecto": "Disco",
+      "nomes": [
+        "Nami",
+        "Taric",
+        "Gragas",
+        "Blitzcrank",
+        "Twisted Fate"
+      ]
+    },
+    {
+      "aspecto": "Ofuscante",
+      "nomes": [
+        "Nami",
+        "Bard",
+        "Lux",
+        "Twisted Fate",
+        "Ziggs"
+      ]
+    },
+    {
+      "aspecto": "Pentakill",
+      "nomes": [
+        "Olaf",
+        "Gnar",
+        "Kayle",
+        "Mordekaiser",
+        "Karthus",
+        "Viego",
+        "Yorick"
+      ]
+    },
+    {
+      "aspecto": "Brutamontes",
+      "nomes": [
+        "Olaf",
+        "Tahm Kench",
+        "Gragas",
+        "Sett",
+        "Zac",
+        "Illaoi"
+      ]
+    },
+    {
+      "aspecto": "Country",
+      "nomes": [
+        "Tahm Kench",
+        "Katarina",
+        "Samira",
+        "Urgot",
+        "Thresh"
+      ]
+    },
+    {
+      "aspecto": "Mosher",
+      "nomes": [
+        "Vi",
+        "Gnar",
+        "Jax",
+        "Sett",
+        "Urgot",
+        "Poppy",
+        "Yorick"
+      ]
+    },
+    {
+      "aspecto": "Edgelord",
+      "nomes": [
+        "Yasuo",
+        "Kayle",
+        "Riven",
+        "Yone",
+        "Viego",
+        "Kayn"
+      ]
+    },
+    {
+      "aspecto": "Jazz",
+      "nomes": [
+        "Bard",
+        "Miss Fortune",
+        "Lucian"
+      ]
+    },
+    {
+      "aspecto": "EDM",
+      "nomes": [
+        "Jax",
+        "Lux",
+        "Zac",
+        "Zed"
+      ]
+    },
+    {
+      "aspecto": "Carrasco",
+      "nomes": [
+        "Twitch",
+        "Samira",
+        "Vex",
+        "Karthus",
+        "Akali(1)",
+        "Akali(2)"
+      ]
+    },
+    {
+      "aspecto": "Hyperpop",
+      "nomes": [
+        "Lulu",
+        "Ziggs"
+      ]
+    },
+    {
+      "aspecto": "Breakout",
+      "nomes": [
+        "Akali(1)",
+        "Akali(2)"
+      ]
+    },
+    {
+      "aspecto": "illbeats",
+      "nomes": [
+        "Illaoi"
+      ]
+    },
+    {
+      "aspecto": "Maestro",
+      "nomes": [
+        "Jhin"
+      ]
+    },
+    {
+      "aspecto": "Wildcard",
+      "nomes": [
+        "Kayn"
+      ]
+    },
+    {
+      "aspecto": "Mixmaster",
+      "nomes": [
+        "Sona"
+      ]
+    }
+  ]
+}
