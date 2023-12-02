@@ -301,7 +301,7 @@ export const routes = [
 },  
     {
         method: 'GET',
-        path: buildRoutePath('/champions'),
+        path: buildRoutePath('/'),
         handler: handleGetChampions
     },
     {
