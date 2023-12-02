@@ -4,7 +4,7 @@ import 'dotenv/config';
 import { routes } from './routes.js';
 import { extractQueryParams } from './utils/extract-query-params.js';
 
-const port = process.env.PORT
+const port = 3333
 const server = http.createServer(requestHandler);
 
 async function requestHandler(req, res) {
