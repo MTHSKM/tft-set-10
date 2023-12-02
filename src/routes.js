@@ -316,7 +316,7 @@ export const routes = [
     },
     {
         method: 'POST',
-        path: buildRoutePath('/championsTotal'),
+        path: buildRoutePath('/championsMany'),
         handler: handleCreateManyChampions
     },
     {
